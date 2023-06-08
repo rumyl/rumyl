@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rumyl James</h1>
-<h3 align="center">A coder, gamer and a teaher</h3>
+<h3 align="center">A coder / gamer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rumyl&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com.ph/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm&psig=AOvVaw2cwWGvO-OMjQDyieLtN58n&ust=1686312203855000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDmuNHQs_8CFQAAAAAdAAAAABAE)" alt="rumyl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumyl&label=Profile%20views&color=0e75b6&style=flat" alt="rumyl" /> </p>
 
 - 📫 How to reach me **rumyljames@gmail.com**
 
