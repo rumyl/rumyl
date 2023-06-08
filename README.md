@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://fb.com/rjbdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rjbdc" height="30" width="40" /></a>
 <a href="https://instagram.com/rumyljames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumyljames" height="30" width="40" /></a>
- <a href="https://discord.gg/1456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1456" height="30" width="40" /></a>
 </p>
 
 
