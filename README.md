@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rumyl James</h1>
-<h3 align="center">A coder / gamer</h3>
+<h3 align="center">Educator / Developer</h3>
 
 ![Page Views](https://visitor-badge.laobi.icu/badge?page_id=rumyl.rumyl&left_text=Profile%20Views "Page Views")
 
